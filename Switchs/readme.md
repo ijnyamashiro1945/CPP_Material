@@ -1,0 +1,3 @@
+# Penjelasan Switch 
+
+Dalam bahasa pemograman C++, switch adalah pernyataan yang digunakan untuk memilih blok kode yang akan dieksekusi berdasarkan nilai variable atau ekspresi. Pernyataan switch dimulai dengan kata kunci switch diikuti dengan variable atau ekspresi yang akan dibandingkan dengan nilai-nilai yang diberikan dalam case. Jika nilai dalam case, maka blok kode yang mengikuti case tersebut akan dieksekusi. Jika nilai variable atau ekspresi tidak sama dengan salah satu nilai dalam case, maka blok kode yang mengikuti default akan dieksekusi.
